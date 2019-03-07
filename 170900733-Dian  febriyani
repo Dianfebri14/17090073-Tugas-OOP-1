@@ -1,0 +1,11 @@
+public class Hallo {
+    
+    /**
+     * @param args the command line arguments
+     */
+    public static void main (String[] args) {
+        System.out.println("Nama : Dian Febriyani");
+        System.out.println("NIM : 17090073");
+        System.out.println("Kelas : 4A");
+    }
+}
